@@ -37,6 +37,13 @@ A visually accurate clone of the Gmail mobile app interface, built using Kotlin 
 |-----------------------------|------------------------------|-------------------------------|
 | ![Inbox](screenshots/inbox.png) | ![Drawer](screenshots/drawer.png) | ![Compose](screenshots/compose.png) |
 
+ <p align="center">
+  <img src="screenshots/Screenshot1.jpg" alt="Intro 1 Screen" width="1440"/>
+    <img src="screenshots/Screenshot2.jpg" alt="Intro 2 Screen" width="1440"/>
+    <img src="screenshots/Screenshot3.jpg" alt="Intro 3 Screen" width="1440"/>
+    <img src="screenshots/Screenshot4.jpg" alt="Intro 4 Screen" width="1440"/>
+</p>
+
 ---
 
 ## 🚀 Getting Started
